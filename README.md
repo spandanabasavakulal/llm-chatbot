@@ -26,7 +26,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF d
 
 ## How It Works
 
-```text
+
 PDF Upload
     ↓
 Text Extraction
@@ -46,7 +46,7 @@ Generated Answer
 
 ## Project Structure
 
-```text
+
 llm-chatbot/
 │
 ├── app.py
