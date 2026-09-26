@@ -44,19 +44,19 @@ Gemini LLM
 Generated Answer
 
 
-Project Structure
+## Project Structure
 
+```text
 llm-chatbot/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .env
-└── venv/
+└── .gitignore
 
 
 
 
-##Live Demo
+## Live Demo
 
 [https://llm-chatbot-3pu8yekszk57pts7uysekd.streamlit.app/]
